@@ -1,0 +1,125 @@
+Power BI Assignment 3:-
+
+1. List and explain different PowerBi products?
+
+Ans: Here are several products within the Power BI ecosystem that cater to different user needs. Here are the main Power BI products:
+
+     a.Power BI Desktop: Power BI Desktop is a Windows application used to create rich interactive reports and dashboards.
+
+     b.Power BI Service: Power BI Service, also known as Power BI online or Power BI cloud, is a cloud-based service that allows users to publish, 
+       share, and collaborate on Power BI reports and dashboards.
+
+     c. Power BI Report Server: Power BI Report Server is an on-premises reporting solution that allows organizations to host and distribute
+        Power BI reports within their own infrastructure. 
+   
+     d.Power BI Embedded: Power BI Embedded is a developer-focused offering that enables developers to integrate Power BI capabilities 
+       into their own applications. 
+
+ 2. What limitations of Excel, Microsoft solved by PowerBi?
+ 
+Ans: some of the key limitations that Power BI aims to solve:
+     
+      a)Scalability and Performance: Excel has limitations in terms of handling large volumes of data efficiently.
+
+      b)Data Integration and Connectivity: Excel requires manual data extraction, transformation, and merging from multiple data sources.
+    
+      c)Interactive Data Visualization: Excel provides basic charting and graphing capabilities, but it may not be sufficient for creating
+        advanced interactive visualizations.
+ 
+      d)Collaborative and Centralized Sharing: Excel files are typically shared through emails or file-sharing platforms.
+
+      e)Real-time Data Refresh: In Excel, data refresh can be a manual and time-consuming process, requiring users to update data manually 
+        or create complex formulas.
+
+
+ 3. Explain PowerQuery?
+  
+  Ans:Power Query is a data transformation and preparation tool that is integrated into various Microsoft products, including Power BI, Excel,
+      and Power Apps. It enables users to connect to various data sources, transform and shape the data, and load it into their preferred 
+      destination for analysis and reporting.
+
+    a. Data Source Connectivity: Power Query provides a wide range of connectors that allow users to connect to various data sources 
+       such as databases, spreadsheets, cloud services, websites, and more.
+
+    b. Data Transformation and Shaping: Power Query offers a comprehensive set of tools and functions to transform and shape the data according 
+       to specific requirements.
+ 
+     c.Query Editor: Power Query provides a user-friendly Query Editor interface that allows users to visually design their data transformation steps. 
+
+     d.Custom Functions and Advanced Transformations: Power Query supports creating custom functions using the M formula language, 
+       allowing users to encapsulate complex data transformations into reusable functions. 
+
+ 4. Explain PowerMap?
+
+ Ans: With Power Map, users could plot geographical and temporal data on a 3D map, allowing for a dynamic and interactive analysis.
+      It supported various mapping features such as heat maps, column charts, pie charts, and bubble visualizations, all tied to specific 
+      geographic locations.
+    
+      a.Geographic Visualization: Power Map enabled users to plot their data on a 3D map, leveraging Bing Maps as the underlying mapping platform.
+
+      b.Time-Based Analysis: Power Map allowed users to incorporate a time dimension into their visualizations. 
+
+      c.Data Exploration: Power Map offered interactive exploration capabilities, allowing users to zoom, pan, and rotate the map to gain
+       different perspectives of their data. 
+  
+      d.Custom Visualizations: Power Map supported various visualization types to represent data on the map, including heat maps to show 
+       data density, column and pie charts to display quantitative information, and bubble visualizations to compare data values across
+       different locations.
+
+
+ 5. How powerBi eliminated the need to host SharePoint Server on premises?
+  
+  Ans: Power BI has helped eliminate the need to host SharePoint Server on premises by providing a cloud-based platform for data analysis,
+       reporting, and collaboration. 
+
+     a.Cloud-Based Architecture: Power BI is built on a cloud-based architecture, which means that all the data, reports, and dashboards 
+       are hosted in the cloud.
+
+     b.Easy Data Sharing and Collaboration: Power BI provides robust sharing and collaboration capabilities within the Power BI Service.
+ 
+     c.Power BI Web Part for SharePoint: Microsoft has developed a Power BI web part for SharePoint Online, which enables users to embed
+       Power BI reports and dashboards directly into SharePoint pages. 
+
+     d.Embedding Power BI Content: Power BI allows users to embed reports, dashboards, and visuals directly into SharePoint Online pages. 
+
+ 6. Explain the updates done in Power Bi Service(power BI 2.0) as compared to older version ?
+
+ Ans: In September 2021, there have been several updates and improvements in Power BI Service (also referred to as Power BI 2.0) compared to 
+      the older versions. Please note that Microsoft continues to release updates and new features regularly, so there may have been further 
+      changes since then.
+
+   a.Modern and Responsive UI: Power BI Service introduced a modern and responsive user interface (UI), providing an improved user experience.
+
+  b. Paginated Reports: Power BI Service introduced support for paginated reports, which are pixel-perfect, printable reports optimized for
+     generating and distributing highly formatted reports across different devices and screen sizes. 
+
+  c.Power BI Premium Gen2: Power BI Premium underwent significant updates with the introduction of Premium Gen2. 
+
+  d.Power Automate Integration: Power BI Service introduced tighter integration with Power Automate (formerly known as Microsoft Flow),
+    enabling users to automate workflows and trigger actions based on Power BI events.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
